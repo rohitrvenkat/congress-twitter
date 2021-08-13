@@ -1,4 +1,4 @@
-user.screen_name,first_name,last_name,party
+user,first_name,last_name,party
 SenJonKyl,jon,kyl,R
 DougJones,doug,jones,D
 timkaine,tim,kaine,D
@@ -53,7 +53,7 @@ SenatorIsakson,johnny,isakson,R
 InhofePress,jim,inhofe,R
 GrahamBlog,lindsey,graham,R
 SenRubioPress,marco,rubio,R
-SenAngusKing,angus,king,I(D)
+SenAngusKing,angus,king,D
 SenGillibrand,kirsten,gillibrand,D
 SenBobCasey,bob,casey,D
 ChrisVanHollen,chris,hollen,D
@@ -565,7 +565,7 @@ Boozman4AR,john,boozman,R
 SenRickScott,rick,scott,R
 MurrayCampaign,patty,murray,D
 mazieforhawaii,mazie,hirono,D
-BernieSanders,bernie,sanders,I(D)
+BernieSanders,bernie,sanders,D
 JeffMerkley,jeff,merkley,D
 JohnnyIsakson,johnny,isakson,R
 DickDurbin,dick,durbin,D
@@ -640,7 +640,7 @@ larsenrick,rick,larsen,D
 marygayscanlon,mary,scanlon,D
 pallonefornj,frank,pallone,D
 reschenthaler,guy,reschenthaler,R
-Kilili_Sablan,gregorio,sablan,I(D)
+Kilili_Sablan,gregorio,sablan,D
 Andy_Levin,andy,levin,D
 AnnMcLaneKuster,ann,kuster,D
 Armstrong_ND,kelly,armstrong,R
@@ -648,7 +648,7 @@ AyannaPressley,ayanna,pressley,D
 BrianFitzUSA,brian,fitzpatrick,R
 CarolynBMaloney,carolyn,maloney,D
 ClyburnSC06,jim,clyburn,D
-CongressmanJVD,jeff,drew,I
+CongressmanJVD,jeff,drew,R
 CoopForCongress,jim,cooper,D
 DanCrenshawTX,dan,crenshaw,R
 DanLipinski,dan,lipinski,D
@@ -768,7 +768,7 @@ LaurenUnderwood,lauren,underwood,D
 RepRalphNorman,ralph,norman,R
 GregPenceIN,greg,pence,R
 LoriTrahanMA,lori,trahan,D
-VanDrewForNJ,jeff,drew,I
+VanDrewForNJ,jeff,drew,R
 sharicedavids,sharice,davids,D
 RepGuthrie,brett,guthrie,R
 RepJimmyGomez,jimmy,gomez,D
